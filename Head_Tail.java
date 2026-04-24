@@ -1,3 +1,6 @@
+//Linked List
+//Add First and Add Last
+
 package LinkedList1;
 
 public class Head_Tail {
@@ -70,7 +73,7 @@ public class Head_Tail {
     }
 }
 
-// output
+// output :
 // LL is empty
 // 2
 // 1 2
